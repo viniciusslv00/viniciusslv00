@@ -1,9 +1,10 @@
 <h3 align="center">Olá, me chamo Vinicius!</h3><br>
 
 ```
-Estudante de Desenvolvimento de Sistemas na ETEAAF 👨‍💻
+Técnico em Desenvolvimento de Sistemas
 ```
   
+    
   ##
   
   <div align="center">
@@ -22,7 +23,7 @@ Estudante de Desenvolvimento de Sistemas na ETEAAF 👨‍💻
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!-- Adicionei o ícone do Python aqui -->
 </div>
 
 </div>
@@ -31,7 +32,7 @@ Estudante de Desenvolvimento de Sistemas na ETEAAF 👨‍💻
   
   <div> 
 
-<div align="center"><a href="https://instagram.com/viniiciusslv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a href = "mailto:slvinicius00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/vinicius-silva-b6091a226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
+<div align="center"><a href="https://instagram.com/viniiciusslv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a href = "mailto:viniciusslv900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/vinicius-silva-76b888188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
  
  </div>
   
