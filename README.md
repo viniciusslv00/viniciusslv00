@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Meu nome é Vinicius.  
+<h3 align="center">Olá! Meu nome é Vinicius. <br> 
 Atualmente, estou estudando PHP e desenvolvimento web, buscando evoluir para atuar como desenvolvedor back-end.
 </h3><br>
 
