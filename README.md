@@ -1,7 +1,10 @@
-<h3 align="center">Olá, me chamo Vinicius!</h3><br>
+<h3 align="center">👋 Olá! Meu nome é Vinicius e sou apaixonado por tecnologia e desenvolvimento.  
+Atualmente, estou estudando **PHP e desenvolvimento web**, buscando evoluir para atuar como desenvolvedor back-end.
+</h3><br>
 
 ```
 Técnico em Desenvolvimento de Sistemas
+Estudante de Engenharia de Software
 ```
   
     
@@ -9,9 +12,10 @@ Técnico em Desenvolvimento de Sistemas
   
   <div align="center">
   <a href="https://github.com/viniciusslv00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusslv00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusslv00&layout=compact&langs_count=6&theme=tokyonight"/>
-    <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusslv00&theme=tokyonight&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusslv00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusslv00&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusslv00&theme=tokyonight&hide_border=false"/>
+
 
 </div>
   
@@ -19,11 +23,14 @@ Técnico em Desenvolvimento de Sistemas
   
   <div> 
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+<center>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </div>
+</center>
+
 
 </div>
   
