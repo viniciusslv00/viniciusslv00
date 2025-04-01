@@ -42,6 +42,8 @@ Estudante de Engenharia de Software
   <div> 
  
   
-    
+  <div align="center">
   
 ![Snake animation](https://github.com/Medeiros92/Medeiros92/blob/output/github-contribution-grid-snake.svg)
+
+</div>  
